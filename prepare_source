@@ -1,0 +1,4 @@
+version_orig=2.75
+version="$version_orig-2"
+git_src -b "debian/1%$version" "https://salsa.debian.org/debian/libcap2.git"
+
